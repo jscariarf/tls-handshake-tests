@@ -1,0 +1,63 @@
+#########################
+# Maven generated files #
+#########################
+target/
+*.versionsBackup
+
+######################
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+################################
+# Sublime Text generated files #
+################################
+*.sublime-project
+*.sublime-workspace
+
+################################
+# WebStorm generated files #
+################################
+.idea
+
+##############
+# Diff Files #
+##############
+*.orig
+
+######################
+# Editing temp files #
+######################
+*~
+*#
+
+###########################
+# Other unnecessary files #
+###########################
+.svn
+
+##############
+# Exceptions #
+##############
+# !xxx.jar
+/bin
+bin/
+
+#########
+# ignore unix swp files
+########
+*.swp
+
+#########
+# intellij iml files
+########
+*.iml
+.brackets.json
+
+#########
+# multiple MVN management
+########
+mvnvm.properties
